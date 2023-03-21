@@ -4,7 +4,7 @@
 
 Missile Command was the first game that I played on my Atari home computer. 
 
-This is a recreation of the game in Python. Starting with BekBrace/Missile-Command I'm going to update the game to more closely match the home console port from 1987.
+This is a recreation of the game in Python. Starting with BekBrace/Missile-Command, I will update the game to more closely match the home console port from 1987.
 
 ## Story
 
